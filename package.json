@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ludger Peters<ludjer@gmail.com>",
+  "author": "Ludger Peters<github@ludgerpeters.com>",
   "license": "Apache License V2",
   "dependencies": {
     "bluebird": "^3.4.7",
